@@ -53,4 +53,5 @@ https://pandas.pydata.org/pandas-docs/stable/10min.html
 https://pandas.pydata.org/pandas-docs/stable/cookbook.html
 http://tomaugspurger.github.io/modern-4-performance.html
 https://pandas.pydata.org/pandas-docs/stable/gotchas.html deep mem usage 
+http://pandas.pydata.org/pandas-docs/stable/getting_started/basics.html
 
