@@ -1,5 +1,16 @@
 # Getting started with this tutorial
 
+I made this after quite a lot of thought. There are a ton of pandas tutorials out there and the maintainers of pandas themselves have tutorials. But I think these tutorials have one of two flavors:
+
+1. Intro: you barely get into details. 
+2. Reference: just the details
+
+I wanted to let people know what are the important and advanced pandas functions that a data scientist uses on a day to day basis. And I could not find it. 
+
+Thus this. 
+
+This tutorial is an opinionated guide to pandas. I'll let you know which functions I think are not worth learning and which are. This is not an intro to pandas. This is pandas for data scientists, and I hope you enjoy.
+
 ## Installing Virtualenv
 
 The first step to get running with these tutorials is to install virtualenv. Fortunately there is a [great tutorial](https://docs.python-guide.org/dev/virtualenvs/#lower-level-virtualenv) on hitchhiker's guide to python. Please follow the steps  in the guide.
@@ -22,36 +33,19 @@ Finally the last step is to run an ipython notebook from within the env and then
 
 Pandas itself has some good resources on installation that you can find [here](https://pandas.pydata.org/pandas-docs/stable/install.html)
 
+
+## Order of the Notebooks
+
+The recommended order is:
+
+1. Pandas Intro to Data Structures
+2. Indexing and Selecting
+3. Group Operations
+4. Row-Column Transformations
+5. Combining DataFrames
+6. Misc Functions
+
+
 ## Exercises
 
 If you are like me you will also find using some of these techniques in exercises to be quite useful as well. And fortunately pandas has some great [exercises listed on their site](https://pandas.pydata.org/pandas-docs/stable/tutorials.html#exercises-for-new-users). If y'all would like and these tutorials/videos get enough support, I'd be happy to video the solutions to those exercises as well. 
-
-## TODO
-
-For me:
-
-Pandas nans 
-Pandas essential functions
-	https://pandas.pydata.org/pandas-docs/stable/computation.html
-Pandas and strings 
-Indexing and selecting 
-Multi/heirarchical index (how you get there and how you get out)
-	https://pandas.pydata.org/pandas-docs/stable/reshaping.html
-groupby stuff 
-Merging and joining 
-Performance and categories 
-	https://pandas.pydata.org/pandas-docs/stable/categorical.html
-	https://pandas.pydata.org/pandas-docs/stable/enhancingperf.html
-
-
-Future 
-Styles - https://pandas.pydata.org/pandas-docs/stable/style.html
-IO - read_csv and sql 
-
-Then add to these tutorials with these guys
-https://pandas.pydata.org/pandas-docs/stable/10min.html
-https://pandas.pydata.org/pandas-docs/stable/cookbook.html
-http://tomaugspurger.github.io/modern-4-performance.html
-https://pandas.pydata.org/pandas-docs/stable/gotchas.html deep mem usage 
-http://pandas.pydata.org/pandas-docs/stable/getting_started/basics.html
-
