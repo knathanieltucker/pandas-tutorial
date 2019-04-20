@@ -6,6 +6,7 @@ backcall==0.1.0
 bleach==3.1.0
 certifi==2019.3.9
 chardet==3.0.4
+cycler==0.10.0
 decorator==4.4.0
 defusedxml==0.5.0
 docutils==0.14
@@ -22,7 +23,9 @@ Jinja2==2.10.1
 jsonschema==3.0.1
 jupyter-client==5.2.4
 jupyter-core==4.4.0
+kiwisolver==1.0.1
 MarkupSafe==1.1.1
+matplotlib==3.0.3
 mistune==0.8.4
 nbconvert==5.4.1
 nbformat==4.4.0
@@ -46,6 +49,8 @@ pytz==2019.1
 pyzmq==18.0.1
 qtconsole==4.4.3
 requests==2.21.0
+scipy==1.2.1
+seaborn==0.9.0
 Send2Trash==1.5.0
 six==1.12.0
 snowballstemmer==1.2.1
@@ -60,7 +65,7 @@ terminado==0.8.2
 testpath==0.4.2
 tornado==6.0.2
 traitlets==4.3.2
-urllib3==1.24.1
+urllib3==1.24.2
 wcwidth==0.1.7
 webencodings==0.5.1
 widgetsnbextension==3.4.2

@@ -38,12 +38,12 @@ Pandas itself has some good resources on installation that you can find [here](h
 
 The recommended order is:
 
-1. Pandas Intro to Data Structures
-2. Indexing and Selecting
-3. Group Operations
-4. Row-Column Transformations
-5. Combining DataFrames
-6. Misc Functions
+1. [Pandas Intro to Data Structures](https://github.com/knathanieltucker/pandas-tutorial/blob/master/notebooks/Pandas%20Intro%20to%20Data%20Structures.ipynb)
+2. [Indexing and Selecting](https://github.com/knathanieltucker/pandas-tutorial/blob/master/notebooks/Indexing%20and%20Selecting.ipynb)
+3. [Group Operations](https://github.com/knathanieltucker/pandas-tutorial/blob/master/notebooks/Group%20Operations.ipynb)
+4. [Row-Column Transformations](https://github.com/knathanieltucker/pandas-tutorial/blob/master/notebooks/Row-Column%20Transformations.ipynb)
+5. [Combining DataFrames](https://github.com/knathanieltucker/pandas-tutorial/blob/master/notebooks/Combining%20DataFrames.ipynb)
+6. [Misc Functions](https://github.com/knathanieltucker/pandas-tutorial/blob/master/notebooks/Misc%20Functions.ipynb)
 
 
 ## Exercises
