@@ -1,4 +1,6 @@
-# Getting started with this tutorial
+# An Opinionated Guide to Pandas
+
+## Getting started with this tutorial
 
 I made this after quite a lot of thought. There are a ton of pandas tutorials out there and the maintainers of pandas themselves have tutorials. But I think these tutorials have one of two flavors:
 
